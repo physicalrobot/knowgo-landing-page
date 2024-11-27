@@ -12,7 +12,7 @@ const Hero = () => {
         <img src={logo} alt="the site logo" style={styles.image} />
       </div>
       <p style={styles.subtitle}>"Knowledge that Goes Where You Go."</p>
-      <button style={styles.ctaButton}>Get Started</button>
+      <button style={styles.ctaButton}>Coming Soon</button>
     </section>
   );
 };
