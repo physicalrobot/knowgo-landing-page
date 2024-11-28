@@ -30,6 +30,7 @@ const styles = {
         flex: 1, // Allow this section to grow and fill available space
         position: "relative",
         display: "flex",
+        width:"100%",
     
       },
       title: {
