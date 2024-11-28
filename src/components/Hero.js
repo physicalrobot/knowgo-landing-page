@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "../assets/knowgologo.png";
-import styles from "../index.css";
+import "./style.css";
 
 const Hero = () => {
   return (
