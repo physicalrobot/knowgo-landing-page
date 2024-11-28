@@ -1,5 +1,6 @@
 {
   "name": "knowgo-landing-page",
+  "homepage": "https://knowgoapp.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
