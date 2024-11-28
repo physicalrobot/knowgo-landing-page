@@ -11,7 +11,7 @@ const Hero = () => {
       <div style={styles.logo}>
         <img src={logo} alt="the site logo" style={styles.image} />
       </div>
-      <p style={styles.subtitle}>"Knowledge that Goes Where You Go."</p>
+      <p style={styles.subtitle}>“I learned very early the difference between knowing the name of something and knowing something.” - Richard Feynman</p>
       <button style={styles.ctaButton}>Coming Soon</button>
     </section>
   );
