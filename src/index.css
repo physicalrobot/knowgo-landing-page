@@ -31,7 +31,17 @@ footer {
     width: 100%; /* Cards take full width on smaller screens */
   }
 }
-
+.ctaButton {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #407EA6;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  position: relative;
+  top: 20px;
+}
 @font-face {
   font-family: 'Quicksand';
   src: url('./assets//fonts//Quicksand-Bold.ttf') format('truetype');
@@ -44,4 +54,9 @@ code {
     monospace;
 }
 
+
+button {
+  all: unset; /* Remove all inherited and browser default styles */
+  display: inline-block;
+}
 

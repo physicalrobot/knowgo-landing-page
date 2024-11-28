@@ -12,7 +12,7 @@ const Hero = () => {
         <img src={logo} alt="the site logo" style={styles.image} />
       </div>
       <p style={styles.subtitle}>“I learned very early the difference between knowing the name of something and knowing something.” - Richard Feynman</p>
-      <button style={styles.ctaButton}>Coming Soon</button>
+      <button className="ctaButton" style={styles.ctaButton}>Coming Soon</button>
     </section>
   );
 };
