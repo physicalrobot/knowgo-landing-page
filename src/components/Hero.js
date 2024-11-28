@@ -54,7 +54,9 @@ const styles = {
         color: '#fff',
         border: 'none',
         borderRadius: '5px',
+        position:'relative',
         cursor: 'pointer',
+        top:20,
       },
   know: {
     color: "#407EA6", // Color for "Know"
