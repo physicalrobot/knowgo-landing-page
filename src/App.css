@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  all: unset; /* Remove all inherited and browser default styles */
+  display: inline-block;
+}
