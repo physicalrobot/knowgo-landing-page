@@ -54,8 +54,8 @@ const styles = {
         color: '#fff',
         border: 'none',
         borderRadius: '5px',
-        position:'relative',
         cursor: 'pointer',
+        position:'relative',
         top:20,
       },
   know: {
